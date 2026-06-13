@@ -1,0 +1,10 @@
+{
+  "name": "neuro-play-games",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NeuroPlay browser games and cognitive training app.",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx vercel --prod"
+  }
+}
